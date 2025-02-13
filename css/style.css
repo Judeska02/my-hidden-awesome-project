@@ -1,0 +1,24 @@
+h1 {
+    text-decoration: red;
+
+}
+
+body {
+    background-color: lightblue;
+    background-image: url(../img/Judeska.jpg);
+}
+img {
+    border-width: 10px;
+    border-color: black;
+    border-style: solid;
+    width: 100px;
+    height: 100px;
+}
+
+p {
+    color: pink;
+}
+
+p#speciaal {
+    color: blue;
+}
